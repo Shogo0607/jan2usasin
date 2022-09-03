@@ -1,0 +1,8 @@
+pandas
+selenium==3.141.0
+webdriver-manager==3.7.0
+streamlit
+streamlit-aggrid
+plotly-express
+openpyxl
+xlrd
